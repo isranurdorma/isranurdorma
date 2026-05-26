@@ -11,13 +11,21 @@
 
 ### Teknik Yetkinlikler
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50" style="margin: 0 10px;"/>
-</p>
 
+<p align="center">
+  <span style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block; margin: 0 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="vertical-align: middle;"/>
+  </span>
+  <span style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block; margin: 0 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="vertical-align: middle;"/>
+  </span>
+  <span style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block; margin: 0 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="vertical-align: middle;"/>
+  </span>
+  <span style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block; margin: 0 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="vertical-align: middle;"/>
+  </span>
+</p>
 ---
 
 ### İletişim ve Bağlantılar
