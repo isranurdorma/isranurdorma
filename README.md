@@ -25,7 +25,10 @@
   <span style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block; margin: 0 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="vertical-align: middle;"/>
   </span>
-</p>
+  <span style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block; margin: 0 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align: middle;"/>
+  </span>
+  </p>
 ---
 
 ### İletişim ve Bağlantılar
